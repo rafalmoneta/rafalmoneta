@@ -28,7 +28,7 @@ I am self-taught Software Developer with passion and a curiosity to explore new 
 </p>
 
 ### More about me:
-- 🔭 I’m currently working on RnD React Native project at [Software Mansion]([https://www.softwaremansion.com](https://swmansion.com/))
+- 🔭 I’m currently working on RnD React Native project at [Software Mansion](https://swmansion.com/)
 - 🌱 I’m currently learning: Rust, electronics and embeeded programming
 - 🤔 I’m looking for help with: open-source contributions, embeeded programming and Rust
 - 💬 Ask me about: Anything related to React, React Native, Remix or fullstack development
