@@ -1,6 +1,6 @@
 # Hey, I am Rafał!
 
-Hey, I'm Rafał Moneta I started as a freelancer creating fullstack applications. Currently I'm Software Engineer at Software Mansion working on React Native RnD project. 
+Hey, I'm Rafał Moneta I started as a freelancer creating fullstack applications. Currently I'm Software Engineer at Software Mansion working on React Native RnD project. I am open for small freelance projects.
 
 I am self-taught developer with passion and a curiosity to explore new technologies. I love dark mode, technology, and building side projects. When not futzing around the code, I like running, watching movies, or playing football.I believe in the power of lifelong learning and try to inspire others to do the same.
 
