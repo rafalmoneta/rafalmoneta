@@ -27,9 +27,11 @@ I am self-taught Software Developer with passion and a curiosity to explore new 
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
 </p>
 
+<!-- 
 ### More about me:
 - 🔭 I’m currently working on RnD React Native project at [Software Mansion](https://swmansion.com/)
 - 🌱 I’m currently learning: Rust, electronics and embeeded programming
 - 🤔 I’m looking for help with: open-source contributions, embeeded programming and Rust
 - 💬 Ask me about: Anything related to React, React Native, Remix or fullstack development
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rafalmoneta)
+-->
