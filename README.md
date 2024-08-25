@@ -1,6 +1,8 @@
 # Hey, I am Rafał!
 
-I am self-taught Software Developer with passion and a curiosity to explore new technologies. I love dark mode, technology, and building side projects. When not futzing around the code, I like running, watching movies, or playing football.I believe in the power of lifelong learning and try to inspire others to do the same.
+Hey, I'm Rafał Moneta I started as a freelancer back in 2022 creating fullstack applications. Currently I'm Software Engineer at Software Mansion. 
+
+I am self-taught developer with passion and a curiosity to explore new technologies. I love dark mode, technology, and building side projects. When not futzing around the code, I like running, watching movies, or playing football.I believe in the power of lifelong learning and try to inspire others to do the same.
 
 ### Programming languages and tools that I use:
 
@@ -26,6 +28,8 @@ I am self-taught Software Developer with passion and a curiosity to explore new 
   <img alt="Remix" src="https://img.shields.io/badge/-Remix-000000?style=flat-square&logo=remix&logoColor=white" />
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
 </p>
+
+More to come ...
 
 <!-- 
 ### More about me:
