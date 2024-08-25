@@ -28,8 +28,7 @@ I am currently Software Engineer at Software Mansion. I am self-taught developer
 </p>
 
 ### More about me:
-
-- 🌱 I’m currently learning: Rust, electronics and embeeded programming
-- 🤔 I’m looking for help with: open-source contributions, embeeded programming and Rust
-- 💬 Ask me about: Anything related to React, React Native, Remix or fullstack development
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rafalmoneta)
+🌱 I’m currently learning: Rust, electronics and embeeded programming
+🤔 I’m looking for help with: open-source contributions, embeeded programming and Rust
+💬 Ask me about: Anything related to React, React Native, Remix or fullstack development
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rafalmoneta)
