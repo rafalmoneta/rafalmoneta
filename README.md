@@ -30,6 +30,7 @@ I am self-taught developer with passion and a curiosity to explore new technolog
   <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" />
   <img alt="Remix" src="https://img.shields.io/badge/-Remix-000000?style=flat-square&logo=remix&logoColor=white" />
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img alt="Tauri" src="https://img.shields.io/badge/-Tauri-ffc131?style=flat-square&logo=tauri&logoColor=white" />
 </p>
 
 More to come ...
