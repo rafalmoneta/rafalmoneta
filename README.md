@@ -1,5 +1,6 @@
+<!--
 # Hey, I am Rafał!
-
+-->
 Hey, I'm Rafał Moneta. Currently I'm Software Engineer at [Software Mansion](https://swmansion.com/). 
 
 <!--
