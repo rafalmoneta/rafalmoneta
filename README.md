@@ -1,7 +1,7 @@
 <!--
 # Hey, I am Rafał!
 -->
-Hey, I'm Rafał Moneta. I'm Freelance Software Engineer. 
+Hey, I'm Rafał Moneta. I'm Freelance Software Developer. 
 
 <!--
 -->
