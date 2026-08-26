@@ -1,9 +1,9 @@
 <!--
 # Hey, I am Rafał!
 -->
-Hey, I'm Rafał Moneta — a software developer who helps turn ideas into thoughtfully crafted web and mobile apps. I'm driven by curiosity, a love of building, and a desire to explore new technologies.
+# Hey, I'm Rafał Moneta
 
-I love dark mode, technology, and building side projects. When not futzing around the code, I like running, watching movies, or playing football. I believe in the power of lifelong learning and try to inspire others to do the same.
+Software developer who helps turn ideas into thoughtfully crafted web and mobile apps. I'm driven by curiosity, a love of building, and a desire to explore new technologies. I love dark mode, technology, and building side projects. When not futzing around the code, I like running, watching movies, or playing football. I believe in the power of lifelong learning and try to inspire others to do the same.
 
 ### Programming languages and tools that I use:
 
@@ -43,11 +43,11 @@ I love dark mode, technology, and building side projects. When not futzing aroun
 
 
 
-Currently focused on: reliable offline-first experiences, practical agentic apps for web, mobile & desktop, AI agents that solve real problems, and the Rust programming language.
+### Currently focused on
+
+Rreliable offline-first experiences, practical agentic apps for web, mobile & desktop, AI agents that solve real problems, and the Rust programming language.
 
 On the side I'm exploring LLMs, 3D printing, electronics, cybersecurity, and embedded programming.
-
-More to come ...
 
 <!-- 
 ### More about me:
