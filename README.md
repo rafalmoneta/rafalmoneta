@@ -45,7 +45,7 @@ Software developer who helps turn ideas into thoughtfully crafted web and mobile
 
 ### Currently focused on
 
-Rreliable offline-first experiences, practical agentic apps for web, mobile & desktop, AI agents that solve real problems, and the Rust programming language.
+Reliable offline-first experiences, practical agentic apps for web, mobile & desktop, AI agents that solve real problems, and the Rust programming language.
 
 On the side I'm exploring LLMs, 3D printing, electronics, cybersecurity, and embedded programming.
 
